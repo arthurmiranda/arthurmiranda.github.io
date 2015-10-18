@@ -12,6 +12,9 @@ body{
 	footer{
 		background-color:blue;  
 	}
+	.botao_ver_mais{
+		font-size: 20px;
+	}
 
 	p{
 		color:orange;
